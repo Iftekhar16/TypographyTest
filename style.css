@@ -1,7 +1,17 @@
 body{
-    font-family: poppins;
     padding: 5rem;
+    font-family: poppins;
     line-height: 1.75rem;
+}
+
+@media screen and (max-width: 992px) {
+
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        padding: 1rem;
+    }
 }
 
 
