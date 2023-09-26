@@ -1,0 +1,36 @@
+body{
+    font-family: poppins;
+    padding: 5rem;
+    line-height: 1.75rem;
+}
+
+
+
+/* font sizes */
+.text-small{
+    font-size: 0.8rem;
+}
+.text-normal{
+    font-size: 1rem;
+}
+.text-heading1{
+    font-size: 1.25rem;
+}
+.text-heading2{
+    font-size: 1.563rem;
+}
+.text-title1{
+    font-size: 1.953rem;
+}
+.text-title2{
+    font-size: 2.441rem;
+}
+/* 3.052rem/48.83px	A Visual Type Scale
+2.441rem/39.06px	A Visual Type Scale
+1.953rem/31.25px	A Visual Type Scale
+1.563rem/25.00px	A Visual Type Scale
+1.25rem/20.00px	A Visual Type Scale
+1rem/16.00px	A Visual Type Scale
+0.8rem/12.80px	A Visual Type Scale
+0.64rem/10.24px	A Visual Type Scale
+0.512rem/8.19px	A Visual Type Scale */
