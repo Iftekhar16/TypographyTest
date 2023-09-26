@@ -1,7 +1,8 @@
 body{
+    background-color: rgb(40, 40, 40);
+    color: #E5E6E0;
     padding: 5rem;
     font-family: poppins;
-    line-height: 1.75rem;
 }
 
 @media screen and (max-width: 992px) {
@@ -19,21 +20,27 @@ body{
 /* font sizes */
 .text-small{
     font-size: 0.8rem;
+    line-height: 1.25rem;
 }
 .text-normal{
     font-size: 1rem;
+    line-height: 1.75rem;
 }
 .text-heading1{
     font-size: 1.25rem;
+    line-height: 2.2rem;
 }
 .text-heading2{
     font-size: 1.563rem;
+    line-height: 2.7rem;
 }
 .text-title1{
     font-size: 1.953rem;
+    line-height: 3.2rem;
 }
 .text-title2{
     font-size: 2.441rem;
+    line-height: 3.7rem;
 }
 /* 3.052rem/48.83px	A Visual Type Scale
 2.441rem/39.06px	A Visual Type Scale
