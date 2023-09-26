@@ -4,19 +4,12 @@ body{
     padding: 5rem;
     font-family: poppins;
 }
-
-@media screen and (max-width: 992px) {
-
-}
-
+@media screen and (max-width: 992px) {}
 @media screen and (max-width: 600px) {
     body {
         padding: 1rem;
     }
 }
-
-
-
 /* font sizes */
 .text-small{
     font-size: 0.8rem;
@@ -42,6 +35,13 @@ body{
     font-size: 2.441rem;
     line-height: 3.7rem;
 }
+
+
+/* note to self */
+/* from normal's line height, i converted it to px and then added/subtrated 8px from it. Then converted back to rem */
+
+
+/* from https://typescale.com/ */
 /* 3.052rem/48.83px	A Visual Type Scale
 2.441rem/39.06px	A Visual Type Scale
 1.953rem/31.25px	A Visual Type Scale
