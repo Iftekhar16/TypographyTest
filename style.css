@@ -2,7 +2,7 @@ body{
     background-color: rgb(40, 40, 40);
     color: #E5E6E0;
     padding: 5rem;
-    font-family: poppins;
+    font-family: 'Poppins', sans-serif;
 }
 @media screen and (max-width: 992px) {}
 @media screen and (max-width: 600px) {
